@@ -1,0 +1,6 @@
+requests
+discord.py
+beautifulsoup4==4.8.0
+js2py
+siaskynet
+aiofiles
